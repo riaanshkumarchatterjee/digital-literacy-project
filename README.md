@@ -1,8 +1,13 @@
 # DIGITAL-LITERACY
+
 RIAANSH KUMAR CHATTERJEE
+
 batch 2025 to 2030
+
 1st year
+
 hoping to gain knowledge of full stack software development
+
 🌟 Project Overview
 
 This repository serves as my professional Digital Literacy Portfolio, developed as part of my role as a Student Digital Ambassador. The project demonstrates my proficiency in building a professional online presence, utilizing collaborative digital tools, and advocating for cyber safety and communication etiquette.
